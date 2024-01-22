@@ -1,0 +1,39 @@
+.myheading{
+    color: aqua;
+    font-size: 40px;
+    background-color: black;
+}
+#three{
+    color: blueviolet;
+}
+.two{
+    color: brown;
+}
+.first{
+    background-color: chocolate;
+    padding-top: 30px;
+    padding-left: 50px;
+    padding-bottom: 30px;
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.text{
+    display: flex;
+    background-color: #f5dce1;
+    padding: 20px;
+}
+.paragraph1{
+    margin-left: 40px;
+}
+.main{
+    display: flex;
+}
+.paragraph2{
+    background-color: aqua;
+}
+.paragraph3{
+    background-color: aquamarine;
+}
+.paragraph4{
+    background-color: cadetblue;
+}
